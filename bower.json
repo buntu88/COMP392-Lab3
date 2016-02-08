@@ -1,0 +1,25 @@
+{
+  "name": "comp392-lab3",
+  "authors": [
+    "Vishal Guleria <vishal.guleria@outlook.com>"
+  ],
+  "description": "COMP392-Lab 3 for Advanced Graphics",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/buntu88/COMP392-Lab3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}
